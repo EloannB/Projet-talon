@@ -1,0 +1,107 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+
+
+footer {
+    font-family: Arial, sans-serif;
+}
+
+#bottombar {
+
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f5d5f6;
+
+}
+
+#bottombar article {
+
+    text-align: center;
+
+}
+
+#bottombar article ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#info {
+
+
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e4afe2;
+    padding: 1rem 0;
+}
+
+
+#info article {
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#news {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+
+#new {
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    background-color: white;
+    width: auto;
+    margin: 1.5rem;
+}
+
+
+#best {
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    background-color: white;
+    width: auto;
+    margin: 1.5rem;
+}
+
+#crush {
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    background-color: white;
+    width: auto;
+    margin: 1.5rem;
+}
+
+.container {
+    background-color: whitesmoke;
+
+    width: 75%;
+    border: 1px solid whitesmoke;
+    margin: 0% auto;
+}
+
+#slider img {
+
+    width: 100%;
+    height: auto;
+
+}
+
+#select {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: baseline;
+
+}
+
+#select h1 {
+
+    width: 100%;
+}
